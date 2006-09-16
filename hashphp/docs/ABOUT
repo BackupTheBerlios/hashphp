@@ -1,0 +1,1 @@
+#php ("HashPHP") is a cross-platform open-source IDE for PHP development written in C++ using the Qt windowing toolkit. #php provides a rich set of features including easy extensibility using plug-ins, syntax-highlighting, code-completion, debugging and profiling (using xdebug) and workspace-management.
